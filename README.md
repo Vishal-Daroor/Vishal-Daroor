@@ -1,5 +1,5 @@
 # Hi, I'm Daroor Vishal 👋
-### Data Analyst & Sales Ops Specialist | AWS Ecosystem | Business Intelligence
+### Data Analyst & GenAI enthusiasist  | AWS Ecosystem | Business Intelligence
 
 ---
 
